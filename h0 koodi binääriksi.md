@@ -3,6 +3,7 @@ Tein ohjelman Pythonilla, joka tulostaa Hei ja pyytää kirjoittamaan tervehdyks
 print("Hei")
 
 sana = input("Kirjoita tervehdys: ")
+
 if sana == "Moi":
 
     print("Jes")
