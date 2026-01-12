@@ -5,8 +5,11 @@ print("Hei")
 sana = input("Kirjoita tervehdys: ")
 
 if sana == "Moi":
+
     print("Jes")
+    
 else:
+
     print("Yritä uudestaan")
 
 Muutin koodin binääriksi:
