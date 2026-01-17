@@ -44,10 +44,15 @@ Pilvipalvelut
 ## Kaavio
 
 ( Internet) out of scope
+
      ↑
+     
  (ethernet)
+ 
      ↑
-  (Tietokone) in scope
+     
+ (Tietokone) in scope
+ 
 
   ## Sidotaan standardiin
 
