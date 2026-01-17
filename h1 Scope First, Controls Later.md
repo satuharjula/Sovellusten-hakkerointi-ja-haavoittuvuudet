@@ -32,18 +32,18 @@ Operaattorin verkko, koska Internet-palveluntarjoaja vastaa siitä
 
 ### Keskeiset rajapinnat
 
-Pilvipalvelut:
+#### Pilvipalvelut:
 
 GTithub 
 OneDrive
 Moodle
 
-Toimittajat:
+#### Toimittajat:
 
 Internet-palveluntarjoaja
 GitHub
  
-Etäyhteydet:
+#### Etäyhteydet:
 
 Internet
 Pilvipalvelut
