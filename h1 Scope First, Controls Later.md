@@ -3,18 +3,27 @@
 ### ISMS-soveltamisala
 
 Kotiverkon infra:
+
 Ethernet-yhteys tietokoneelleni
 
 Laitteet, joita käytän kurssiharjoituksiin:
+
 Windows kotikone, sekä läppäri
 
 Tiedot:
+
 Laksu
+
 Kurssin materiaalit
+
 Muiden opiskelijoiden tehtävänpalautukset
+
 Harjoitusaineistot
+
 Tunnukset/avaimet
+
 GitHub
+
 
 ### Ulosrajaus out-of-scope
 
