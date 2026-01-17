@@ -2,7 +2,7 @@
 
 ### ISMS-soveltamisala
 
-Kotiverkon infra:
+#### Kotiverkon infra:
 
 Ethernet-yhteys tietokoneelleni
 
@@ -10,7 +10,7 @@ Laitteet, joita käytän kurssiharjoituksiin:
 
 Windows kotikone, sekä läppäri
 
-Tiedot:
+#### Tiedot:
 
 Laksu
 
