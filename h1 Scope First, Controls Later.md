@@ -35,17 +35,21 @@ Operaattorin verkko, koska Internet-palveluntarjoaja vastaa siitä
 #### Pilvipalvelut:
 
 GTithub 
+
 OneDrive
+
 Moodle
 
 #### Toimittajat:
 
 Internet-palveluntarjoaja
+
 GitHub
  
 #### Etäyhteydet:
 
 Internet
+
 Pilvipalvelut
 
 
