@@ -6,7 +6,7 @@
 
 Ethernet-yhteys tietokoneelleni
 
-Laitteet, joita käytän kurssiharjoituksiin:
+### Laitteet, joita käytän kurssiharjoituksiin:
 
 Windows kotikone, sekä läppäri
 
